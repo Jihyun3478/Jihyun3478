@@ -1,9 +1,9 @@
 ### Hi guys! Welcome to my github 👋
 
----
-
 I'm jihyun. I want to be a backend developer in near future❗
 My motto is *connecting the dot*.
+
+---
 
 ### ⚒️ Tech Stacks
 
