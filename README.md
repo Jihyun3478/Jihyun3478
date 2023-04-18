@@ -1,2 +1,23 @@
-[//]: # (<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://velog.velcdn.com/images/ljh3478/post/da5d79fb-0ef3-407f-af18-86c034cc79a6/image.svg" style = "" logoColor = #6DB33F/></a>)
-![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=github_dark)
+### Hi guys! Welcome to my github 👋
+
+---
+
+I'm jihyun. I want to be a backend developer in near future❗
+My motto is *connecting the dot*. I will never give up.
+
+### ⚒️ Tech Stacks
+
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/-H2-00599C?style=for-the-badge&logo=H2&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+### 📈 Git Stats
+![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian)
+
+---
+
+### 💻 Projects
