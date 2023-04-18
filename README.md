@@ -1,7 +1,7 @@
-### Hi guys! Welcome to my github 👋
+### Welcome to my github 👋
 
 I'm jihyun. I want to be a backend developer in near future❗
-My motto is *connecting the dot*.
+My motto is *connecting the dot*. I trust that the dots will somehow connect in my future by my effort.
 
 ---
 
@@ -19,3 +19,4 @@ My motto is *connecting the dot*.
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian)
 
 [//]: # (### 💻 Projects)
+[//]: # (![Kotlin]&#40;https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&#41;)
