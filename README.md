@@ -3,7 +3,7 @@
 ---
 
 I'm jihyun. I want to be a backend developer in near future❗
-My motto is *connecting the dot*. I will never give up.
+My motto is *connecting the dot*.
 
 ### ⚒️ Tech Stacks
 
@@ -18,6 +18,4 @@ My motto is *connecting the dot*. I will never give up.
 ### 📈 Git Stats
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian)
 
----
-
-### 💻 Projects
+[//]: # (### 💻 Projects)
