@@ -1,7 +1,7 @@
 ### Welcome to my github 👋
 
 I'm jihyun. I want to be a backend developer in near future❗
-My motto is *connecting the dot*. I trust that the dots will somehow connect in my future by my effort.
+My motto is *connecting the dot*. I trust that the dots will somehow connect in my future.
 
 ---
 
