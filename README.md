@@ -9,7 +9,7 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/-H2-00599C?style=for-the-badge&logo=H2&logoColor=white)
+![H2DB](https://img.shields.io/badge/-H2-00599C?style=for-the-badge&logo=H2&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📈 Git Stats
