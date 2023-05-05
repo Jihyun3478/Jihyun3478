@@ -6,11 +6,13 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 ### ⚒️ Tech Stacks
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![H2DB](https://img.shields.io/badge/-H2DB-00599C?style=for-the-badge&logo=H2DB&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌱 Learning
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 📈 Git Stats
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian)
