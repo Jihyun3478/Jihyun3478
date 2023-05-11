@@ -13,7 +13,7 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 ### 🌱 Learning
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/-SpringDataJPA-6DB33F?style=for-the-badge&logo=springdatajpa&logoColor=white)
 
 ### 📈 Git Stats
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian)
