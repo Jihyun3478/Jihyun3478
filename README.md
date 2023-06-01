@@ -14,6 +14,8 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/-SpringDataJPA-6DB33F?style=for-the-badge&logo=springdatajpa&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/-Docker-6DB33F?style=for-the-badge&logo=docker&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/-AWS-6DB33F?style=for-the-badge&logo=aws&logoColor=white)
 
 ### 📈 Git Stats
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian)
