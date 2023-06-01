@@ -17,8 +17,8 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AmazonAWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 
-### 📈 Git Stats
-![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian)
+<!-- ### 📈 Git Stats
+![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian) -->
 
-[//]: # (### 💻 Projects)
-[//]: # (![Kotlin]&#40;https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&#41;)
+<!-- [//]: # (### 💻 Projects)
+[//]: # (![Kotlin]&#40;https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&#41;) -->
