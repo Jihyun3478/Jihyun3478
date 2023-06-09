@@ -22,4 +22,4 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian) -->
 
 ### 💻 Projects
-* 게시판 프로젝트(SpringBoot & JPA & H2 Database)
+1. 게시판 프로젝트(SpringBoot & JPA & H2 Database) : 2023.05.30 ~ 2023.06.14
