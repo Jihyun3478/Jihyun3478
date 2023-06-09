@@ -13,12 +13,12 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 ### 🌱 Learning
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 <!-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white) -->
+<!-- ![Kotlin](https://img.shields.io/badge/-Kotlin-FF9900?style=for-the-badge&logo=kotlin&logoColor=white) -->
 
 <!-- ### 📈 Git Stats
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian) -->
 
-<!-- [//]: # (### 💻 Projects)
-[//]: # (![Kotlin]&#40;https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&#41;) -->
+### 💻 Projects
