@@ -23,5 +23,5 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 
 ### 💻 Projects
 1. 게시판 프로젝트(SpringBoot & JPA & H2 Database) : 2023.05.30 ~ 2023.06.14
-2. 온보딩 프로젝트 따라하기(SpringBoot & JPA & H2 Database) : 2023.06.15 ~ 2023.06.30
-3. `Traveler` 여행 스케줄러 웹 어플리케이션(SpringBoot & JPA & H2 Database) : 2023.07.01 ~ 2023.07.30
+<!-- 2. 온보딩 프로젝트 따라하기(SpringBoot & JPA & H2 Database) : 2023.06.15 ~ 2023.06.30
+3. `Traveler` 여행 스케줄러 웹 어플리케이션(SpringBoot & JPA & H2 Database) : 2023.07.01 ~ 2023.07.30 -->
