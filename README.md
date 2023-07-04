@@ -22,6 +22,6 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian) -->
 
 ### 💻 Projects
-1. 게시판 프로젝트(SpringBoot & JPA & H2 Database) : 2023.05.30 ~ 2023.06.18
+1. 게시판 프로젝트(SpringBoot & JPA & H2 Database) : 2023.05.30 ~ 2023.07.04
 <!-- 2. 온보딩 프로젝트 따라하기(SpringBoot & JPA & H2 Database) : 2023.06.15 ~ 2023.06.30
 3. `Traveler` 여행 스케줄러 웹 어플리케이션(SpringBoot & JPA & H2 Database) : 2023.07.01 ~ 2023.07.30 -->
