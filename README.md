@@ -15,13 +15,12 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 ![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-<!-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white) -->
-<!-- ![Kotlin](https://img.shields.io/badge/-Kotlin-FF9900?style=for-the-badge&logo=kotlin&logoColor=white) -->
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 
-<!-- ### 📈 Git Stats
-![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian) -->
+### 📈 Git Stats
+![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian)
 
 ### 💻 Projects
-1. 게시판 프로젝트(SpringBoot & JPA & H2 Database) : 2023.05.30 ~ 2023.07.04
+1. 게시판 프로젝트(SpringBoot & JPA & H2 Database) : 2023.05.30 ~ 2023.07.10
 <!-- 2. 온보딩 프로젝트 따라하기(SpringBoot & JPA & H2 Database) : 2023.06.15 ~ 2023.06.30
 3. `Traveler` 여행 스케줄러 웹 어플리케이션(SpringBoot & JPA & H2 Database) : 2023.07.01 ~ 2023.07.30 -->
