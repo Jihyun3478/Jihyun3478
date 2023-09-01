@@ -12,7 +12,7 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 
 ### 🌱 Learning
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/-Spring-data-JPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/-SpringDataJPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white)
 <!-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white) -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
 <!-- ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) -->
