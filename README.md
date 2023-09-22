@@ -4,7 +4,6 @@ I'm jihyun. I want to be a backend developer in near future❗
 My motto is *connecting the dot*. I trust that the dots will somehow connect in my future.
 
 ### ⚒️ Tech Stacks
-
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![H2DB](https://img.shields.io/badge/-H2DB-00599C?style=for-the-badge&logo=H2DB&logoColor=white)
@@ -16,6 +15,12 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <!-- ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) -->
+
+### Github Stats
+![Jihyun's github stats](https://github-readme-stats.vercel.app/api?Jihyun3478=6810779s&show_icons=true&theme=prussian)
+
+### My Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Jihyun3478=깃허브 아이디&layout=레이아웃 스타일&theme=prussian)
 
 <!-- ### 💻 Projects
 1. 게시판 프로젝트(SpringBoot & H2 Database) : 2023. ~ 2023. -->
