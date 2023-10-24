@@ -16,8 +16,8 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 <!-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white) -->
 <!-- ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) -->
 
-<!-- ### 🌟 Github Stats
-![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian) -->
+🌟 Github Stats
+![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian)
 
 ### 🗣️ My languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyun3478&theme=prussian)
