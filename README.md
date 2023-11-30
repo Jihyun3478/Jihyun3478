@@ -23,4 +23,4 @@ My motto is *connecting the dot*. I trust that the dots will somehow connect in 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyun3478&theme=prussian)
 
 ### 💻 Projects
-1. 교내 코드 리뷰 커뮤니티(SpringBoot & JPA & MySQL) : 2023.10.04 ~
+1. 교내 코드 리뷰 커뮤니티(SpringBoot & JPA & MySQL) : 2023.10.04 ~ 2023.11.29
