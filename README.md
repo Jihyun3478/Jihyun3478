@@ -13,7 +13,7 @@ Frameworks & Database<br>
 
 ![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=nodeJs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-00599C?style=for-the-badge&logo=mongodb&logoColor=white)
 
