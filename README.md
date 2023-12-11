@@ -1,6 +1,6 @@
 ### Welcome to my github 👋
-
 비즈니스 로직을 통해 가치를 실현시키는 Server Developer를 목표로 하고 있습니다.
+
 
 ### ⚒️ Tech Stacks
 Programming Languages
@@ -19,10 +19,12 @@ Frameworks & Database
 <!-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white) -->
 <!-- ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) -->
 
+
 ### 👩‍💻 Projects
 Period | Title | Description
 :--: | :--: | :--:
 2023.10 ~ 2023.11 | KCR | 교내 코드 리뷰 커뮤니티 웹사이트 제작
+
 
 <!-- ### 💡 Experiences -->
 
