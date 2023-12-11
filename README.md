@@ -1,8 +1,8 @@
 ### Welcome to my github 👋
-비즈니스 로직을 통해 가치를 실현시키는 Server Developer를 목표로 꾸준히 공부하고 있습니다.
+비즈니스 로직을 통해 가치를 실현시키는 Server Developer를 목표로 꾸준히 공부하고 있습니다.<br>
 5년 뒤에는 소통을 중요시하는 개발자로 거듭나있길 기대합니다.
 
-I'm constantly studying to become a Server Developer that realizes value through business logic.
+I'm constantly studying to become a Server Developer that realizes value through business logic.<br>
 I look forward to being reborn as a developer who values communication in five years.
 
 ---
