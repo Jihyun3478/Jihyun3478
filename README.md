@@ -7,15 +7,15 @@
 Programming Languages<br>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 Frameworks & Database<br>
 
-![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-00599C?style=for-the-badge&logo=H2DB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-00599C?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!-- Infra -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
