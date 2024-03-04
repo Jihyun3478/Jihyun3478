@@ -11,7 +11,6 @@ I look forward to being reborn as a developer who values communication in five y
 Programming Languages<br>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 Frameworks & Database<br>
 
