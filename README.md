@@ -1,5 +1,5 @@
 # 이지현 🍀
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5D8FF&title_bg=%237FB8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5D8FF&title_bg=%237FB8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun3478)
