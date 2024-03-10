@@ -7,6 +7,10 @@ I look forward to being reborn as a developer who values communication in five y
 
 ---
 
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun3478)
+
+---
+
 ### ⚒️ Tech Stacks
 Programming Languages<br>
 
