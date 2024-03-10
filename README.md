@@ -1,13 +1,9 @@
-# Lee Jihyun 🍀
-
----
+# LEE JIHYUN 🍀
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun3478&count_bg=%23C9E6FF&title_bg=%2396C5FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun3478)
-
----
 
 # 🌱 Skills
 Languages<br>
@@ -25,12 +21,9 @@ Frameworks & Database<br>
 <!-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white) -->
 <!-- ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) -->
 
----
-
 # 👩‍💻 Projects
 Period | Title | Description
 :--: | :--: | :--:
 2023.10 ~ 2023.11 | KCR | 교내 코드 리뷰 커뮤니티 웹사이트 제작
-
 
 <!-- # 💡 Experiences -->
