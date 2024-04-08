@@ -1,6 +1,7 @@
 # 이지현 *Lee Ji Hyun*
 
 👩‍💻 Backend Developer
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -12,7 +13,7 @@
 
 ---
 
-### 👩‍💻 Projects
+### Projects
 Period | Title | Description
 :--: | :--: | :--:
 2023.10 ~ 2023.11 | KCR | 교내 코드 리뷰 커뮤니티 웹 어플리케이션 서버 구축
