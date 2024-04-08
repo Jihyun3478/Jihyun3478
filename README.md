@@ -24,10 +24,10 @@
 <br><br>
 
 <span>
-    <img src="https://img.shields.io/badge/Java-326CE5?style=flat&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-368CCB?style=flat&logo=java&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot"/>
+    <img src="https://img.shields.io/badge/Springboot-0ABF53?style=flat&logo=springboot"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/>
@@ -47,7 +47,8 @@
 
 </details>
 
-<br><br>
+<br>
+
 <div align="center">
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyun3478&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
