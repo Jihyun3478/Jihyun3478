@@ -1,6 +1,4 @@
-# 이지현 *Lee Ji Hyun*
-
-👩‍💻 Backend Developer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B8C9F7&random=false&width=435&lines=Lee+Ji+Hyun;Backend+Developer" alt="Typing SVG" /></a>
 
 # 🌱 Learning
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
@@ -26,11 +24,15 @@ Period | Title | Description
 2024.03 ~ | 오늘 뭐 먹지? | 약속 장소 및 메뉴 선정 웹 어플리케이션 서버 구축
 
 <!-- ### 💡 Experiences -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jihyun3478" color=6E80F7FF/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?Jihyun3478=anuraghazra&layout=compact&langs_count=8&card_width=320" color=6E80F7FF/>
+</a>
+
+[![Jihyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jihyun3478&custom_title=Jihyun's%20Contribution%20Graphhide_border=true_color=6E80F7FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5D8FF&title_bg=%237FB8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun3478)
-
-![](https://raw.githubusercontent.com/Jihyun3478/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Jihyun3478/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <!-- ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian) -->
