@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B8C9F7&random=false&width=435&lines=Lee+Ji+Hyun;Backend+Developer" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=BBCFF7&random=false&width=435&lines=Hi%2C+there.+I'm+Jihyun+Lee.;I'm+Backend+Developer.)](https://git.io/typing-svg)
 
 # 🌱 Learning
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
