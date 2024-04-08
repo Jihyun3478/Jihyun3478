@@ -1,12 +1,8 @@
-<div align=center> 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=BBCFF7&random=false&width=435&lines=Hi%2C+there.+I'm+Jihyun+Lee.;I'm+Backend+Developer.)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&align=center&pause=1000&color=BBCFF7&random=false&width=435&lines=Hi%2C+there.+I'm+Jihyun+Lee.;I'm+Backend+Developer.)](https://git.io/typing-svg)
 
 
-<div align=center> 
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5D8FF&title_bg=%237FB8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-  <a href="[Tistory](https://jihyun-devstory.tistory.com/)"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://jihyun-devstory.tistory.com/"/></a>
-</div>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5D8FF&title_bg=%237FB8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false_align=center)
+<a href="[Tistory](https://jihyun-devstory.tistory.com/)"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&align=center&link=https://jihyun-devstory.tistory.com/"/></a>
 
 <!-- # 🌱 Learning -->
 <!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a> -->
