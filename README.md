@@ -2,7 +2,12 @@
     
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jihyun+Lee;I'm+baekend+developer" alt="Typing SVG" /></a>
+<br><br><br><br>
+
+<!-- Hit counter -->
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun3478&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%58A6FF&title=Hello!&edge_flat=false"/>
 <br>
+
 <div align="center">  
 <br>
 <!-- My CV/resume -->
@@ -64,6 +69,3 @@ Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)`
  -->
 
 <br><br>
-<!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun3478&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%58A6FF&title=Hello!&edge_flat=false"/>
-<br><br><br><br>
