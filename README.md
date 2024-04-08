@@ -6,7 +6,6 @@
 <br><br><br>
 
 <div align="center">  
-<br>
 <!-- My CV/resume -->
 <details>
 <summary>About Me</summary>
