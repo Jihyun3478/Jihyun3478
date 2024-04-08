@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=BBCFF7&random=false&width=435&lines=Hi%2C+there.+I'm+Jihyun+Lee.;I'm+Backend+Developer.)](https://git.io/typing-svg)
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5D8FF&title_bg=%237FB8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 # 🌱 Learning
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+<!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Java&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Java&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Java&logoColor=white"/></a> -->
 <!-- ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=&logoColor=white) -->
 <!-- ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) -->
 <!-- ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) -->
@@ -25,14 +27,12 @@ Period | Title | Description
 
 <!-- ### 💡 Experiences -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jihyun3478" color=6E80F7FF/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jihyun3478"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?Jihyun3478=anuraghazra&layout=compact&langs_count=8&card_width=320" color=6E80F7FF/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?Jihyun3478=anuraghazra&layout=compact&langs_count=8&card_width=320"/>
 </a>
 
 [![Jihyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jihyun3478&custom_title=Jihyun's%20Contribution%20Graphhide_border=true_color=6E80F7FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5D8FF&title_bg=%237FB8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun3478)
-<!-- ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun3478&show_icons=true&theme=prussian) -->
