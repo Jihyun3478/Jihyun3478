@@ -27,12 +27,12 @@ Period | Title | Description
 
 <!-- ### 💡 Experiences -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jihyun3478"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jihyun3478&color=6690F7FF"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?Jihyun3478=anuraghazra&layout=compact&langs_count=8&card_width=320"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jihyun3478&layout=compact&langs_count=8&card_width=320&color=6690F7FF"/>
 </a>
 
-[![Jihyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jihyun3478&custom_title=Jihyun's%20Contribution%20Graphhide_border=true_color=6E80F7FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jihyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jihyun3478&bg_color=fffff0&color=6690F7FF&custom_title=Jihyun's%20Contribution%20Graph_hide_border=true_color=6E80F7FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun3478)
