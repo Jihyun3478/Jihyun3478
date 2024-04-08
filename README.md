@@ -24,22 +24,10 @@
   <a href="mailto:leejihyun3478@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-</span> 
+</span>
+    
 <br><br>
 
-<!--
-
-## OBJECTIVE
-
-## WORK EXPERIENCE
-Math Academy, Seoul/South Korea ```(02/2016 ~ 07/2022)```  
-
-## EDUCATION
-Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)``` (Yonsei University, Seoul)
-
--->
-
-## LEARNING
 <span>
     <img src="https://img.shields.io/badge/Java-326CE5?style=flat&logo=java&logoColor=white"/>
 </span>
@@ -53,6 +41,8 @@ Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)`
 <span>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </span>
+
+<br><br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun3478)](https://solved.ac/hun3478)
