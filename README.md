@@ -65,5 +65,5 @@ Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)`
 
 <br><br>
 <!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun3478&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun3478&count_bg=%23586AFF&title_bg=%58A6FF&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 <br><br><br><br>
