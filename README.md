@@ -5,10 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+there.+I'm+Jihyun+Lee.;I'm+Baekend+Developer." alt="Typing SVG" /></a>
 <br><br><br>
 
-<!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun3478%2Fhit-counter&count_bg=%237DBFFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&title=Hello!&edge_flat=false"/></a>
-<br>
-
 <div align="center">  
 <br>
 <!-- My CV/resume -->
@@ -51,6 +47,10 @@
 </div>
 
 </details>
+
+<!-- Hit counter -->
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun3478%2Fhit-counter&count_bg=%237DBFFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&title=Hello!&edge_flat=false"/></a>
+
 <br><br>
 <div align="center">
 <!-- My profile -->
