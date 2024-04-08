@@ -9,6 +9,8 @@
 <!-- ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) -->
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-231F20?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 
+---
+
 ### 👩‍💻 Projects
 Period | Title | Description
 :--: | :--: | :--:
@@ -16,8 +18,6 @@ Period | Title | Description
 2024.03 ~ | 오늘 뭐 먹지? | 약속 장소 및 메뉴 선정 웹 어플리케이션 서버 구축
 
 <!-- ### 💡 Experiences -->
-
----
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5D8FF&title_bg=%237FB8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
