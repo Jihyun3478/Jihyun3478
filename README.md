@@ -1,8 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=BBCFF7&random=false&width=435&lines=Hi%2C+there.+I'm+Jihyun+Lee.;I'm+Backend+Developer.)](https://git.io/typing-svg)
+<div align=center> 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=BBCFF7&random=false&width=435&lines=Hi%2C+there.+I'm+Jihyun+Lee.;I'm+Backend+Developer.)](https://git.io/typing-svg)
+</div>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5D8FF&title_bg=%237FB8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-<a href="[Tistory](https://jihyun-devstory.tistory.com/)"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://jihyun-devstory.tistory.com/"/></a>
 
+<div align=center> 
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5D8FF&title_bg=%237FB8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+  <a href="[Tistory](https://jihyun-devstory.tistory.com/)"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://jihyun-devstory.tistory.com/"/></a>
+</div>
 
 <!-- # 🌱 Learning -->
 <!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a> -->
@@ -18,11 +22,13 @@
 <!-- ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) -->
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-231F20?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jihyun3478&color=6690F7FF"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jihyun3478&layout=compact&langs_count=8&card_width=320&color=6690F7FF"/>
-</a>
+<div align=center> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jihyun3478&color=6690F7FF&bg_color=090D17FF"/>
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jihyun3478&layout=compact&langs_count=8&card_width=320&color=6690F7FF&bg_color=090D17FF"/>
+  </a>
+</div> 
 
-[![Jihyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jihyun3478&bg_color=fffff0&color=6690F7FF&line=6690F7FF&custom_title=Jihyun's%20Contribution%20Graph_hide_border=true_color=6E80F7FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jihyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jihyun3478&bg_color=090D17FF&color=6690F7FF&line=6690F7FF&custom_title=Jihyun's%20Contribution%20Graph_hide_border=true_color=6E80F7FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
