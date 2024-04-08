@@ -25,11 +25,11 @@
 
 <div align=center> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jihyun3478&color=77A1F7&bg_color=090D17FF&hide_border=true"/>
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Jihyun3478&color=A5C0F7&bg_color=2C373EFF&hide_border=true"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jihyun3478&layout=compact&langs_count=8&card_width=320&color=77A1F7&bg_color=090D17FF&hide_border=true"/>
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Jihyun3478&layout=compact&langs_count=8&card_width=320&color=A5C0F7&bg_color=2C373EFF&hide_border=true"/>
   </a>
 </div>
 
-[![Jihyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jihyun3478&bg_color=090D17FF&color=77A1F7&line=77A1F7&color=6E80F7FF&hide_border=true&custom_title=Jihyun's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jihyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jihyun3478&bg_color=2C373EFF&color=A5C0F7&line=A5C0F7&color=6E80F7FF&hide_border=true&custom_title=Jihyun's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
