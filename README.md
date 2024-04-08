@@ -66,7 +66,6 @@ Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)`
 
 <!-- My snake -->
 <!-- 
+<br><br>
 <img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
  -->
-
-<br><br>
