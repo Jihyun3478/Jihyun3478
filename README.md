@@ -10,8 +10,8 @@
 <summary>About Me</summary>
 <br><br>
 <span>
-  <a href="https://junia3.github.io">
-    <img src="https://img.shields.io/badge/Tistory-red?style=flat&logoColor=white"/>
+  <a href="[https://junia3.github.io](https://jihyun-devstory.tistory.com/)">
+    <img src="https://img.shields.io/badge/Tistory-red?style=flat&logo=Tistory&logoColor=white"/>
   </a>
 </span>
 <span>
@@ -65,5 +65,5 @@ Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)`
 
 <br><br>
 <!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun3478&count_bg=%23586AFF&title_bg=%58A6FF&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun3478&count_bg=%23586AFF&title_bg=%23586AFF&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 <br><br><br><br>
