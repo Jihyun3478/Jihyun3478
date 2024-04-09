@@ -11,7 +11,7 @@
 <summary>About Me</summary>
 <br><br>
 <span>
-  <a href="[https://junia3.github.io](https://jihyun-devstory.tistory.com/)">
+  <a href="[https://jihyun-devstory.tistory.com/](https://jihyun-devstory.tistory.com/)">
     <img src="https://img.shields.io/badge/Tistory-red?style=flat&logo=Tistory&logoColor=white"/>
   </a>
 </span>
