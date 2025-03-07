@@ -35,6 +35,12 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
+<br><br>
+
+### Activity
+**2025.01 ~ ing | NHN Academy Java Backend 6th**
+
+
 </div>
 </div>
 
@@ -52,9 +58,4 @@
 
 <!-- Hit counter -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun3478%2Fhit-counter&count_bg=%237DBFFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&title=Hello!&edge_flat=false"/></a>
-
-<!-- My snake -->
-<!-- 
-<br><br>
-<img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
- -->
+</div>
