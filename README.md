@@ -38,7 +38,7 @@
 <br><br>
 
 ### Activity
-**2025.01 ~ ing | NHN Academy Java Backend 6th**
+**2025.01 ~ 2025.06 | NHN Academy Java Backend 9th**
 
 
 </div>
