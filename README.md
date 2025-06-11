@@ -57,4 +57,4 @@
 <br><br>
 
 <!-- Hit counter -->
-![](https://komarev.com/ghpvc/?username=Jihyun3478&abbreviated=true)
+![Profile views](https://komarev.com/ghpvc/?username=Jihyun3478&abbreviated=true&style=for-the-badge&color=58A6FF)
