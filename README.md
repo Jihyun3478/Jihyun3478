@@ -13,32 +13,32 @@
 ### Contact
 <span>
     <a href="https://jihyun-devstory.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-red?style=flat&logo=Tistory&logoColor=white"/>
-  </a>
+        <img src="https://img.shields.io/badge/Tistory-red?style=flat&logo=Tistory&logoColor=white"/>
+    </a>
 </span>
 <span>
-  <a href="mailto:leejihyun3478@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
+    <a href="mailto:leejihyun3478@gmail.com">
+        <img src="https://img.shields.io/badge/Email-black?style=flat&logo=Gmail&logoColor=white"/>
+    </a>
 </span>
 
 <br><br>
 
 ### Tech Stack
 
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 <br><br>
 
 ### Activity
-**2025.01 ~ 2025.06 | NHN Academy Java Backend 9th**
+**2025.01 ~ 2025.06 | NHN Academy Java Backend 6th**
 
 
 </div>
