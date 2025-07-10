@@ -40,6 +40,9 @@
 ### Activity
 **2025.01 ~ 2025.06 | NHN Academy Java Backend 6th**
 
+<br><br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun3478)](https://solved.ac/hun3478/)
 
 </div>
 </div>
