@@ -2,7 +2,7 @@
     
 <!-- Title Typing Effect -->
 <br><br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+there.+I'm+Jihyun+Lee.;I+wanna+be+a+Baekend+Developer." alt="Typing SVG" /></a> <!--  -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+there.+I'm+Jihyun+Lee.;I+wanna+be+a+baekend+developer." alt="Typing SVG" /></a> <!--  -->
 <br><br><br>
 
 <div align="center">  
